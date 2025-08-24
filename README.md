@@ -18,6 +18,7 @@ The goal is not only to achieve high predictive performance but also to provide 
 
 ## 📂 Repository Structure
 ├── stroke_prediction_ensamble_model.ipynb   # Main notebook with code
+
 ├── README.md                                # Project documentation
 
 ## 📊 Dataset
